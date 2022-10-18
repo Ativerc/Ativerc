@@ -23,11 +23,11 @@ You can click the Preview link to take a look at your changes.
 ![Netlify](https://img.shields.io/badge/netlify-000.svg?style=for-the-badge&logo=netlify)   
 ![NPM](https://img.shields.io/badge/npm-000.svg?style=for-the-badge&logo=npm)   
 ![ReactJS](https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react)    
-![NGINX](https://img.shields.io/badge/nginx-20232a.svg?style=for-the-badge&logo=nginx&logoColor=009639)
-<!-- * NodeJS #339933 -->
-<!-- * Django #092E20 -->
-<!-- ![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia) -->
+![NGINX](https://img.shields.io/badge/nginx-20232a.svg?style=for-the-badge&logo=nginx&logoColor=009639)  
 ![Notion](https://img.shields.io/badge/notion-000.svg?style=for-the-badge&logo=notion&logoColor=FFF)    
 ![Obsidian](https://img.shields.io/badge/obsidian-483699.svg?style=for-the-badge&logo=obsidian&logoColor=FFF)  
 ![Figma](https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=FFF)    
-![Inkscape](https://img.shields.io/badge/inkscape-FFF.svg?style=for-the-badge&logo=inkscape&logoColor=000) 
+![Inkscape](https://img.shields.io/badge/inkscape-FFF.svg?style=for-the-badge&logo=inkscape&logoColor=000)   
+<!-- ![NodeJS](https://img.shields.io/badge/nodejs-339933?style=for-the-badge&logo=node.js&logoColor=FFF)   -->
+<!-- ![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=FFF)   -->
+<!-- ![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia)   -->
