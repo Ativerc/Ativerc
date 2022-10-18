@@ -1,0 +1,37 @@
+- 👋 Hi, I’m @Ativerc
+- 👀 I’m interested in all things that spits out data and can be networked.
+- 🌱 I’m currently learning React and Django
+- 💞️ I’m looking to collaborate on [openly-busy](https://github.com/Ativerc/openly-busy/)
+<!-- - 📫 How to reach me ... -->
+
+<!---
+Ativerc/Ativerc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
+
+
+
+## Tech/Tool Stack:
+ ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript)
+![MicroPython](https://img.shields.io/badge/micropython-2B2728.svg?style=for-the-badge&logo=micropython)
+
+
+![Grafana](https://img.shields.io/badge/grafana-323?style=for-the-badge&logo=grafana)  
+![Prometheus](https://img.shields.io/badge/prometheus-333.svg?style=for-the-badge&logo=prometheus)  
+![Docker](https://img.shields.io/badge/docker-FFF.svg?style=for-the-badge&logo=docker&logoColor=2496ED)
+
+![Netlify](https://img.shields.io/badge/netlify-000.svg?style=for-the-badge&logo=netlify)
+
+![NPM](https://img.shields.io/badge/npm-000.svg?style=for-the-badge&logo=npm)
+
+![ReactJS](https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react)  
+![NGINX](https://img.shields.io/badge/nginx-20232a.svg?style=for-the-badge&logo=nginx&logoColor=009639)
+<!-- * NodeJS #339933 -->
+<!-- * Django #092E20 -->
+<!-- ![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia) -->
+![Notion](https://img.shields.io/badge/notion-000.svg?style=for-the-badge&logo=notion&logoColor=FFF)    
+![Obsidian](https://img.shields.io/badge/obsidian-483699.svg?style=for-the-badge&logo=obsidian&logoColor=FFF)  
+![Figma](https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=FFF)    
+![Inkscape](https://img.shields.io/badge/inkscape-FFF.svg?style=for-the-badge&logo=inkscape&logoColor=000) 
