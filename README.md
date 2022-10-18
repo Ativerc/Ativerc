@@ -13,12 +13,12 @@ You can click the Preview link to take a look at your changes.
 
 
 ## Tech/Tool Stack:
- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
 ![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript)   
-![MicroPython](https://img.shields.io/badge/micropython-2B2728.svg?style=for-the-badge&logo=micropython)  
-![Grafana](https://img.shields.io/badge/grafana-323?style=for-the-badge&logo=grafana)      
-![Prometheus](https://img.shields.io/badge/prometheus-333.svg?style=for-the-badge&logo=prometheus)    
-![Docker](https://img.shields.io/badge/docker-FFF.svg?style=for-the-badge&logo=docker&logoColor=2496ED)   
+![MicroPython](https://img.shields.io/badge/micropython-2B2728.svg?style=for-the-badge&logo=micropython&logoColor=FFF)  
+![Grafana](https://img.shields.io/badge/grafana-F46800?style=for-the-badge&logo=grafana&logoColor=FFF)      
+![Prometheus](https://img.shields.io/badge/prometheus-E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=FFF)    
+![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=FFF)   
 ![Linux](https://img.shields.io/badge/linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=000)  
 ![Netlify](https://img.shields.io/badge/netlify-000.svg?style=for-the-badge&logo=netlify)   
 ![NPM](https://img.shields.io/badge/npm-000.svg?style=for-the-badge&logo=npm)   
@@ -31,3 +31,4 @@ You can click the Preview link to take a look at your changes.
 <!-- ![NodeJS](https://img.shields.io/badge/nodejs-339933?style=for-the-badge&logo=node.js&logoColor=FFF)   -->
 <!-- ![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=FFF)   -->
 <!-- ![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia)   -->
+<!-- ![Flask](https://img.shields.io/badge/flask-000?style=for-the-badge&logo=flask) -->
