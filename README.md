@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ativerc
-- 👀 I’m interested in all things that spits out data and can be networked.
-- 🌱 I’m currently learning React and Django
+- 👀 I’m build things that help people.
+- 🌱 I’m currently learning React and Django.
 - 💞️ I’m looking to collaborate on [openly-busy](https://github.com/Ativerc/openly-busy/) and [rpi-network-monitor](https://github.com/Ativerc/rpi-network-monitor).
 <!-- - 📫 How to reach me ... -->
 
